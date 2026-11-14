@@ -25,10 +25,4 @@ while True:
         break
 
 
-# convert the input to an integer (handle invalid text)
 
-
-# Add 1 to attempts
-
-
-# check if guess is too high ,too low ,or right
